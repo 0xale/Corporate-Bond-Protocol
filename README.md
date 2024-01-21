@@ -1,4 +1,4 @@
-Certainly! Here is the README content in Markdown format, with the use of GHO token instead of stablecoin:
+
 
 ```markdown
 # Corporate Bond Protocol Smart Contract
@@ -12,6 +12,7 @@ The Corporate Bond Protocol is a smart contract deployed on the Ethereum blockch
 ### Company Registration
 
 Companies can register on the platform by providing their name, description, and logo. The `registerCompany` function facilitates this registration process.
+```
 
 ```solidity
 /**
