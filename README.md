@@ -1,6 +1,4 @@
 
-
-```markdown
 # Corporate Bond Protocol Smart Contract
 
 ## Overview
@@ -12,7 +10,7 @@ The Corporate Bond Protocol is a smart contract deployed on the Ethereum blockch
 ### Company Registration
 
 Companies can register on the platform by providing their name, description, and logo. The `registerCompany` function facilitates this registration process.
-```
+
 
 ```solidity
 /**
